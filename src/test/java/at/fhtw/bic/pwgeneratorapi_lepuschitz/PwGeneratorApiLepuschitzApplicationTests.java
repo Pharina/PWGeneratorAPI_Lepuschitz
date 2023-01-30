@@ -8,6 +8,7 @@ class PwGeneratorApiLepuschitzApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
